@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/interac8/static/css/main.cde1cefd.css",
-    "main.js": "/interac8/static/js/main.4943c849.js",
+    "main.js": "/interac8/static/js/main.7c427373.js",
     "static/js/787.3a7d13e2.chunk.js": "/interac8/static/js/787.3a7d13e2.chunk.js",
     "static/media/statue.mp4": "/interac8/static/media/statue.9e82fe362aba910c5154.mp4",
     "static/media/ContactBanner.jpg": "/interac8/static/media/ContactBanner.378ecc46f3a28b2c80f8.jpg",
@@ -10,6 +10,7 @@
     "static/media/about-us-banner.jpg": "/interac8/static/media/about-us-banner.fd6a6adb1dc6158aca94.jpg",
     "static/media/background-image.jpg": "/interac8/static/media/background-image.079b38a132480253ddf0.jpg",
     "static/media/GraphicDesignBanners.jpg": "/interac8/static/media/GraphicDesignBanners.1026e3df974a89b2693d.jpg",
+    "static/media/VideoMarketingBanner.jpg": "/interac8/static/media/VideoMarketingBanner.1026e3df974a89b2693d.jpg",
     "static/media/seowebsite.jpg": "/interac8/static/media/seowebsite.3a9b7cebce1beb1fbc2e.jpg",
     "static/media/pic1.png": "/interac8/static/media/pic1.e7d6cd91880a3f3f1273.png",
     "static/media/SocialMediaBrandManagement.jpg": "/interac8/static/media/SocialMediaBrandManagement.010d624a7d260c02b56d.jpg",
@@ -17,12 +18,12 @@
     "static/media/wordpressBanner.jpg": "/interac8/static/media/wordpressBanner.2d502baf4f35ddcba280.jpg",
     "static/media/SocialMediaAdvertising.jpg": "/interac8/static/media/SocialMediaAdvertising.206ada905c166b651c08.jpg",
     "static/media/SocialMediaManagement.jpg": "/interac8/static/media/SocialMediaManagement.2cd8ac7a4707136358a9.jpg",
-    "static/media/ecommercewebsite.jpg": "/interac8/static/media/ecommercewebsite.734c968b25c2cf018b3a.jpg",
     "static/media/grow-your-business-today.jpg": "/interac8/static/media/grow-your-business-today.734c968b25c2cf018b3a.jpg",
     "static/media/pic4.png": "/interac8/static/media/pic4.12f148713b2400ac772d.png",
     "static/media/banner.jpg": "/interac8/static/media/banner.f1cdb0092fdb9b19d1d5.jpg",
     "static/media/pic2.jpg": "/interac8/static/media/pic2.4a04457d1f64f1e0a8cf.jpg",
     "static/media/pic3.jpg": "/interac8/static/media/pic3.bc2dc30b514546164bb6.jpg",
+    "static/media/ECommerceBanner.jpg": "/interac8/static/media/ECommerceBanner.2aedcb3f942d826717d3.jpg",
     "static/media/pic1.jpg": "/interac8/static/media/pic1.760d5affd470d5fd2435.jpg",
     "static/media/ImageOne.png": "/interac8/static/media/ImageOne.966221333dddfa1e91af.png",
     "static/media/pic2.png": "/interac8/static/media/pic2.82c32b3f6da735187007.png",
@@ -98,11 +99,11 @@
     "static/media/slick.woff": "/interac8/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/interac8/index.html",
     "main.cde1cefd.css.map": "/interac8/static/css/main.cde1cefd.css.map",
-    "main.4943c849.js.map": "/interac8/static/js/main.4943c849.js.map",
+    "main.7c427373.js.map": "/interac8/static/js/main.7c427373.js.map",
     "787.3a7d13e2.chunk.js.map": "/interac8/static/js/787.3a7d13e2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cde1cefd.css",
-    "static/js/main.4943c849.js"
+    "static/js/main.7c427373.js"
   ]
 }
