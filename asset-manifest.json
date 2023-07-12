@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/interac8/static/css/main.68c16d03.css",
-    "main.js": "/interac8/static/js/main.622e3788.js",
+    "main.js": "/interac8/static/js/main.ce12a829.js",
     "static/js/787.3a7d13e2.chunk.js": "/interac8/static/js/787.3a7d13e2.chunk.js",
     "static/media/statue.mp4": "/interac8/static/media/statue.9e82fe362aba910c5154.mp4",
     "static/media/ContactBanner.jpg": "/interac8/static/media/ContactBanner.378ecc46f3a28b2c80f8.jpg",
@@ -12,6 +12,7 @@
     "static/media/GraphicDesignBanners.jpg": "/interac8/static/media/GraphicDesignBanners.1026e3df974a89b2693d.jpg",
     "static/media/VideoMarketingBanner.jpg": "/interac8/static/media/VideoMarketingBanner.1026e3df974a89b2693d.jpg",
     "static/media/seowebsite.jpg": "/interac8/static/media/seowebsite.3a9b7cebce1beb1fbc2e.jpg",
+    "static/media/pic2.png": "/interac8/static/media/pic2.82c32b3f6da735187007.png",
     "static/media/pic1.png": "/interac8/static/media/pic1.e7d6cd91880a3f3f1273.png",
     "static/media/SocialMediaBrandManagement.jpg": "/interac8/static/media/SocialMediaBrandManagement.010d624a7d260c02b56d.jpg",
     "static/media/designing-websites.jpg": "/interac8/static/media/designing-websites.a1817f467119942592ab.jpg",
@@ -24,14 +25,17 @@
     "static/media/pic2.jpg": "/interac8/static/media/pic2.4a04457d1f64f1e0a8cf.jpg",
     "static/media/pic3.jpg": "/interac8/static/media/pic3.bc2dc30b514546164bb6.jpg",
     "static/media/ECommerceBanner.jpg": "/interac8/static/media/ECommerceBanner.2aedcb3f942d826717d3.jpg",
+    "static/media/LogoDesignBanner.jpg": "/interac8/static/media/LogoDesignBanner.4a9cab1fcec8fe6edb34.jpg",
     "static/media/pic1.jpg": "/interac8/static/media/pic1.760d5affd470d5fd2435.jpg",
     "static/media/ImageOne.png": "/interac8/static/media/ImageOne.966221333dddfa1e91af.png",
-    "static/media/pic2.png": "/interac8/static/media/pic2.82c32b3f6da735187007.png",
     "static/media/pic8.png": "/interac8/static/media/pic8.4018fc792d2a6598284b.png",
     "static/media/Vision-&-Mission-Light.png": "/interac8/static/media/Vision-&-Mission-Light.2de4f480d58fa37c3079.png",
     "static/media/ImageTwo.png": "/interac8/static/media/ImageTwo.141a44f7c21cdac18ce3.png",
     "static/media/Vision-&-Mission-Dark.png": "/interac8/static/media/Vision-&-Mission-Dark.cb290d7c4c2d39478ece.png",
+    "static/media/BookCoverDesignBanner.jpg": "/interac8/static/media/BookCoverDesignBanner.8edfc4acc3534bb034ba.jpg",
     "static/media/UIUX.jpg": "/interac8/static/media/UIUX.ecf06c11d63d780b5190.jpg",
+    "static/media/pic3.png": "/interac8/static/media/pic3.bf62ba724974d886d80a.png",
+    "static/media/SocialMediaDesignBanner.jpg": "/interac8/static/media/SocialMediaDesignBanner.4ef573e518c342128140.jpg",
     "static/media/background.png": "/interac8/static/media/background.eb4fe823f5883aeca131.png",
     "static/media/design-dark.png": "/interac8/static/media/design-dark.dea1dd7ced2e867c0ed3.png",
     "static/media/marketing-dark.png": "/interac8/static/media/marketing-dark.e44f3c43c9a13a9bddbe.png",
@@ -41,7 +45,6 @@
     "static/media/SocialMediaFive.png": "/interac8/static/media/SocialMediaFive.ad2438caaad087a0c46d.png",
     "static/media/ecommTwo.png": "/interac8/static/media/ecommTwo.375e882afd23f2424825.png",
     "static/media/design.png": "/interac8/static/media/design.8af109cb1f9aa73e8176.png",
-    "static/media/pic3.png": "/interac8/static/media/pic3.bf62ba724974d886d80a.png",
     "static/media/sales-dark.png": "/interac8/static/media/sales-dark.10da633adbe339b7f06e.png",
     "static/media/solution-dark.png": "/interac8/static/media/solution-dark.38fb3589ea9b39142990.png",
     "static/media/picNotFound.jpg": "/interac8/static/media/picNotFound.7e1ca706e69ab623fec6.jpg",
@@ -99,11 +102,11 @@
     "static/media/slick.woff": "/interac8/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/interac8/index.html",
     "main.68c16d03.css.map": "/interac8/static/css/main.68c16d03.css.map",
-    "main.622e3788.js.map": "/interac8/static/js/main.622e3788.js.map",
+    "main.ce12a829.js.map": "/interac8/static/js/main.ce12a829.js.map",
     "787.3a7d13e2.chunk.js.map": "/interac8/static/js/787.3a7d13e2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.68c16d03.css",
-    "static/js/main.622e3788.js"
+    "static/js/main.ce12a829.js"
   ]
 }
