@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkinterac8=self.webpackChunkinterac8||[]).push([[991],{991:function(e,n,t){t.r(n),t.d(n,{default:function(){return r}});t(2791);var i=t(184);function r(){return(0,i.jsx)("div",{children:"This is the blog page!"})}}}]);
+//# sourceMappingURL=991.a6f7d4d1.chunk.js.map
