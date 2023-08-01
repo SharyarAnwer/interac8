@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/interac8/static/css/main.b02c6333.css",
-    "main.js": "/interac8/static/js/main.6f3dacf5.js",
+    "main.js": "/interac8/static/js/main.ad3c88d4.js",
     "static/css/167.91a30244.chunk.css": "/interac8/static/css/167.91a30244.chunk.css",
     "static/js/167.f30fe16e.chunk.js": "/interac8/static/js/167.f30fe16e.chunk.js",
     "static/css/774.fd1b4c5c.chunk.css": "/interac8/static/css/774.fd1b4c5c.chunk.css",
@@ -79,7 +79,7 @@
     "static/css/956.b07b655f.chunk.css": "/interac8/static/css/956.b07b655f.chunk.css",
     "static/js/956.9f79892a.chunk.js": "/interac8/static/js/956.9f79892a.chunk.js",
     "static/css/264.e9a46623.chunk.css": "/interac8/static/css/264.e9a46623.chunk.css",
-    "static/js/264.925f92c4.chunk.js": "/interac8/static/js/264.925f92c4.chunk.js",
+    "static/js/264.be9042f4.chunk.js": "/interac8/static/js/264.be9042f4.chunk.js",
     "static/css/312.df1a0898.chunk.css": "/interac8/static/css/312.df1a0898.chunk.css",
     "static/js/312.c240b9be.chunk.js": "/interac8/static/js/312.c240b9be.chunk.js",
     "static/js/787.3a7d13e2.chunk.js": "/interac8/static/js/787.3a7d13e2.chunk.js",
@@ -225,7 +225,7 @@
     "static/media/slick.woff": "/interac8/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/interac8/index.html",
     "main.b02c6333.css.map": "/interac8/static/css/main.b02c6333.css.map",
-    "main.6f3dacf5.js.map": "/interac8/static/js/main.6f3dacf5.js.map",
+    "main.ad3c88d4.js.map": "/interac8/static/js/main.ad3c88d4.js.map",
     "167.91a30244.chunk.css.map": "/interac8/static/css/167.91a30244.chunk.css.map",
     "167.f30fe16e.chunk.js.map": "/interac8/static/js/167.f30fe16e.chunk.js.map",
     "774.fd1b4c5c.chunk.css.map": "/interac8/static/css/774.fd1b4c5c.chunk.css.map",
@@ -303,7 +303,7 @@
     "956.b07b655f.chunk.css.map": "/interac8/static/css/956.b07b655f.chunk.css.map",
     "956.9f79892a.chunk.js.map": "/interac8/static/js/956.9f79892a.chunk.js.map",
     "264.e9a46623.chunk.css.map": "/interac8/static/css/264.e9a46623.chunk.css.map",
-    "264.925f92c4.chunk.js.map": "/interac8/static/js/264.925f92c4.chunk.js.map",
+    "264.be9042f4.chunk.js.map": "/interac8/static/js/264.be9042f4.chunk.js.map",
     "312.df1a0898.chunk.css.map": "/interac8/static/css/312.df1a0898.chunk.css.map",
     "312.c240b9be.chunk.js.map": "/interac8/static/js/312.c240b9be.chunk.js.map",
     "787.3a7d13e2.chunk.js.map": "/interac8/static/js/787.3a7d13e2.chunk.js.map",
@@ -314,6 +314,6 @@
   },
   "entrypoints": [
     "static/css/main.b02c6333.css",
-    "static/js/main.6f3dacf5.js"
+    "static/js/main.ad3c88d4.js"
   ]
 }
